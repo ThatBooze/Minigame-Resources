@@ -30,7 +30,7 @@
   "config.lem.battle.take_everything_delete_not_drop.name": "Delete Item",
   "config.lem.battle.take_everything_swap_ignore_enchats.name": "Ignore Enchants",
   "config.lem.battle.invulnerability_timer.name": "Invunverability Time",
-  "config.lem.battle.showdown_start_timer.name": "Time until Showdown",
+  "config.lem.battle.round_length.name": "Round Length",
   "config.lem.battle.showdown_duration.name": "Showdown Duration",
   "config.lem.battle.attack_cooldown.name": "Attack Cooldown",
   "config.lem.battle.weapon_damage.name": "Weapon Damage",
@@ -50,6 +50,7 @@
   "config.lem.battle.itemdrop_style.name": "Item Drop Style",
   "config.lem.battle.quick_item_despawn.name": "Quick Item Despawn",
   "config.lem.battle.multi_lives.name": "Multi Lives",
+  "config.lem.battle.multi_rounds.name": "Multi Rounds",
 
   "config.lem.battle.central_spawn.desc": "Should players spawn in the center at the begining of the game",
   "config.lem.battle.preferred_map_size.desc": "",
