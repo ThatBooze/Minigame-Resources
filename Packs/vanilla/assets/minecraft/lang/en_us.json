@@ -53,6 +53,7 @@
   "config.lem.battle.multi_rounds.name": "Multi Rounds",
   "config.lem.battle.hunger_type.name": "Hunger Type",
   "config.lem.battle.natural_regen.name": "Natural Regen",
+  "config.lem.battle.time_day.name": "Time of Day",
 
   "config.lem.battle.central_spawn.desc": "Should players spawn in the center at the begining of the game",
   "config.lem.battle.preferred_map_size.desc": "",
