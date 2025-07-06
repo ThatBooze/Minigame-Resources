@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lem.base:lobby/atomics"
+  },
+  "oversized_in_gui": true
+}
