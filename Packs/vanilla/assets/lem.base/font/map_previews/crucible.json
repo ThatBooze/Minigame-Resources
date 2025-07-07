@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:map_previews/crucible1.png",
+      "ascent":7,
+      "height": 108,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:map_previews/crucible2.png",
+      "ascent": 7,
+      "height": 108,
+      "chars": [
+        "2"
+      ]
+    }
+  ]
+}
