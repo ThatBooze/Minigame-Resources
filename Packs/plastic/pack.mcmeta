@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 22,
-    "description": "Legacy Edition Minigames (Plastic/2.0 Beta)"
-  }
+    "pack": {
+        "pack_format": 64,
+        "description": "Legacy Edition Minigames (Plastic\/2.0 Beta)"
+    }
 }
