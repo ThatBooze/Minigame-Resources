@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:map_previews/libertalia1.png",
+      "ascent": 8,
+      "height": 108,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:map_previews/libertalia2.png",
+      "ascent": 8,
+      "height": 108,
+      "chars": [
+        "2"
+      ]
+    }
+  ]
+}
