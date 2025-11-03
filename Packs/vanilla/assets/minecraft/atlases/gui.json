@@ -4,6 +4,11 @@
       "type": "directory",
       "source": "cosmetics",
       "prefix": ""
+    },
+    {
+      "type": "directory",
+      "source": "map_previews",
+      "prefix": ""
     }
   ]
 }
