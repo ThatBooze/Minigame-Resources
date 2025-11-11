@@ -25,8 +25,8 @@
   "config.button.next" : "Next",
   "config.button.previous" : "Previous",
 
-  "config.lem.base.optional_packs.name": "Allow Optional Packs",
-  "config.lem.base.custom_pack.name" : "Custom Pack",
+  "config.lem.base.optional_packs.name": "Allow ModTools Optional Packs",
+  "config.lem.base.pack_option.name" : "Pack Option",
   "config.lem.base.custom_pack.desc" :"",
   "config.lem.base.safe_music.name" : "Safe Music",
   "config.lem.base.safe_music.desc" : "",
