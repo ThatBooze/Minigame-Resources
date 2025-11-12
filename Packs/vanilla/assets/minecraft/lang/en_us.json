@@ -329,6 +329,7 @@
   "lem.menu.host.config.update.lobby.lobby_new": "New",
   "lem.menu.host.config.update.lobby.lobby_anniversary": "Anniversary",
   "lem.menu.host.config.update.lobby.lobby_halloween": "Halloween",
+  "lem.menu.host.config.update.lobby.lobby_halloween_remastered": "Halloween (Remastered)",
   "lem.menu.host.config.update.lobby.lobby_festive": "Festive",
   "lem.menu.host.config.update.lobby.desc.lobby_old": "The classic lobby from 2016",
   "lem.menu.host.config.update.lobby.desc.lobby_new": "The updated 2017 lobby with music discs",
