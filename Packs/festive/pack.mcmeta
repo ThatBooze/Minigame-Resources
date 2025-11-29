@@ -1,6 +1,7 @@
 {
-    "pack": {
-        "pack_format": 69,
-        "description": "Legacy Edition Minigames (Festive\/2.0 Beta)"
-    }
+  "pack": {
+    "min_format": 69,
+    "max_format": 69,
+    "description": "Legacy Edition Minigames (Festive\/2.0 Beta)"
+  }
 }
