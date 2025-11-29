@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "Ajustes del Cliente",
   "lem.battle.advancement.config.armorbar.desc": "No mostrar armadura que llevas equipada\n\n§6Puede ajustarse con /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Desactivar interfaz de armadura",

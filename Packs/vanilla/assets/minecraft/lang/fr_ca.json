@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "Paramètres",
   "lem.battle.advancement.config.armorbar.desc": "Cache votre barre d'armure\n\n§6peut être changé avec /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Désactiver votre barre d'armure",

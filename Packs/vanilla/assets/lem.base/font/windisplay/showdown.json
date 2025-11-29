@@ -1,143 +1,143 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 40,
-            "chars": [
-                "\uF001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 50,
-            "chars": [
-                "\uF002"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 60,
-            "chars": [
-                "\uF003"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 70,
-            "chars": [
-                "\uF004"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 80,
-            "chars": [
-                "\uF005"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 90,
-            "chars": [
-                "\uF006"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 100,
-            "chars": [
-                "\uF007"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 110,
-            "chars": [
-                "\uF008"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 125,
-            "chars": [
-                "\uF009"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 120,
-            "chars": [
-                "\uF00A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 115,
-            "chars": [
-                "\uF00B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 110,
-            "chars": [
-                "\uF00C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 105,
-            "chars": [
-                "\uF00D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 100,
-            "chars": [
-                "\uF00E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/showdown.png",
-            "ascent": -6345,
-            "height": 95,
-            "chars": [
-                "\uF00F"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 40,
+      "chars": [
+        "\uF001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 50,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 60,
+      "chars": [
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 70,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 80,
+      "chars": [
+        "\uF005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 90,
+      "chars": [
+        "\uF006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 100,
+      "chars": [
+        "\uF007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 110,
+      "chars": [
+        "\uF008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 125,
+      "chars": [
+        "\uF009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 120,
+      "chars": [
+        "\uF00A"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 115,
+      "chars": [
+        "\uF00B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 110,
+      "chars": [
+        "\uF00C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 105,
+      "chars": [
+        "\uF00D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 100,
+      "chars": [
+        "\uF00E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/showdown.png",
+      "ascent": -6345,
+      "height": 95,
+      "chars": [
+        "\uF00F"
+      ]
+    }
+  ]
 }

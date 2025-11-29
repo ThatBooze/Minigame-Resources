@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "Uw Instellingen",
   "lem.battle.advancement.config.armorbar.desc": "Verberg jouw harnas\n\n§6Kan worden geschakeld met /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Deactiveer ArmorBar",
@@ -141,8 +141,7 @@
   "lem.battle.mapdecider.menu.voting.mappack3": "Map Pakket 3",
   "lem.battle.mapdecider.menu.voting.mappack4": "Map Pakket 4",
   "lem.battle.mapdecider.menu.voting.fallout": "Fallout Map Pakket",
-
-  "noah.comment1":"fuck you if you think i'll touch this without the original files",
+  "noah.comment1": "fuck you if you think i'll touch this without the original files",
   "lem.battle.mapdecider.menu.voting.mapname.crucible": "Crucible",
   "lem.battle.mapdecider.menu.voting.mapname.cove": "Cove",
   "lem.battle.mapdecider.menu.voting.mapname.cavern": "Cavern",
@@ -323,6 +322,5 @@
   "multiplayer.player.joined": "%s heeft zich verbonden",
   "multiplayer.player.joined.renamed": "%s (vroeger bekend als %s) verbond zich aan het spel",
   "multiplayer.player.left": "%s heeft het spel verlaten",
-  
-  "noah.was.here":"Het was zeer leuk om hier aan mee te helpen. Ik hoop dat je kan genieten van Legacy Minigames! - Noah"
+  "noah.was.here": "Het was zeer leuk om hier aan mee te helpen. Ik hoop dat je kan genieten van Legacy Minigames! - Noah"
 }

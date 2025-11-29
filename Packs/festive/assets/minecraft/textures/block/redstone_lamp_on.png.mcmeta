@@ -1,7 +1,7 @@
 {
-    "animation": {
-        "frametime": 4,
-		"frames": [
+  "animation": {
+    "frametime": 4,
+    "frames": [
       0,
       1,
       2,
@@ -9,5 +9,5 @@
       2,
       1
     ]
-    }
+  }
 }

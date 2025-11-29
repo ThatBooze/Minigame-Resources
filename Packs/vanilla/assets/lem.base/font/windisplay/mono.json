@@ -1,16 +1,16 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "lem.base:include/space"
-        },
-        {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
-        },
-        {
-            "type": "reference",
-            "id": "lem.base:windisplay/include/mono"
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "reference",
+      "id": "lem.base:windisplay/include/mono"
+    }
+  ]
 }

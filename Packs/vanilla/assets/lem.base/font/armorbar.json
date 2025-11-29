@@ -1,269 +1,269 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/empty/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/leather/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF002"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/gold/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF003"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/chain/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF004"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/iron/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF005"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/diamond/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF006"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/netherite/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF007"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/turtle/head.png",
-            "ascent": -6324,
-            "height": 32,
-            "chars": [
-                "\uF008"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/empty/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF101"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/leather/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF102"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/gold/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF103"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/chain/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF104"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/iron/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF105"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/diamond/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF106"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/netherite/body.png",
-            "ascent": -6342,
-            "height": 32,
-            "chars": [
-                "\uF107"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/empty/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF201"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/leather/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF202"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/gold/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF203"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/chain/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF204"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/iron/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF205"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/diamond/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF206"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/netherite/legs.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "\uF207"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/empty/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF301"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/leather/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF302"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/gold/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF303"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/chain/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF304"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/iron/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF305"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/diamond/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF306"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:armorbar/netherite/feet.png",
-            "ascent": -6378,
-            "height": 32,
-            "chars": [
-                "\uF307"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/empty/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/leather/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/gold/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/chain/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/iron/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/diamond/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/netherite/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/turtle/head.png",
+      "ascent": -6324,
+      "height": 32,
+      "chars": [
+        "\uF008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/empty/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/leather/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/gold/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/chain/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/iron/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/diamond/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/netherite/body.png",
+      "ascent": -6342,
+      "height": 32,
+      "chars": [
+        "\uF107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/empty/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/leather/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/gold/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF203"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/chain/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF204"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/iron/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF205"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/diamond/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF206"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/netherite/legs.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "\uF207"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/empty/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF301"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/leather/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF302"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/gold/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF303"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/chain/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF304"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/iron/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF305"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/diamond/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF306"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:armorbar/netherite/feet.png",
+      "ascent": -6378,
+      "height": 32,
+      "chars": [
+        "\uF307"
+      ]
+    }
+  ]
 }

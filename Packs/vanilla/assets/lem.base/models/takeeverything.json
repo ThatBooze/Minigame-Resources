@@ -2,7 +2,11 @@
   "parent": "item/handheld",
   "display": {
     "gui": {
-      "scale": [1.12, 1.12, 1]
+      "scale": [
+        1.12,
+        1.12,
+        1
+      ]
     }
   },
   "textures": {

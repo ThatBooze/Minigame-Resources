@@ -1,80 +1,80 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "minecraft:include/space"
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/big/empty.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "0"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/big/dead.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "1"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/big/transparent.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "2"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/big/full.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "3"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/small/empty.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "4"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/small/dead.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "5"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/small/transparent.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "6"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:playerbar/small/full.png",
-            "ascent": -36,
-            "height": 5,
-            "chars": [
-                "7"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/big/empty.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/big/dead.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/big/transparent.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/big/full.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/small/empty.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/small/dead.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/small/transparent.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:playerbar/small/full.png",
+      "ascent": -36,
+      "height": 5,
+      "chars": [
+        "7"
+      ]
+    }
+  ]
 }

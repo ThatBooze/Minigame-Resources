@@ -1,4 +1,4 @@
-﻿{	
+﻿{
   "lem.advancement.config.root.name": "Параметры клиента",
   "lem.battle.advancement.config.armorbar.desc": "Не показывать доспехи, которые вы носите\n\n§6Можно переключать с помощью команды /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Отключить броню",

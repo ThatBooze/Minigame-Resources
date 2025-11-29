@@ -1,14 +1,18 @@
 {
-    "blend": {
-        "func": "add",
-        "srcrgb": "srcalpha",
-        "dstrgb": "1-srcalpha"
+  "blend": {
+    "func": "add",
+    "srcrgb": "srcalpha",
+    "dstrgb": "1-srcalpha"
+  },
+  "vertex": "minecraft:core/rendertype_text",
+  "fragment": "minecraft:core/rendertype_text",
+  "samplers": [
+    {
+      "name": "Sampler0"
     },
-    "vertex": "minecraft:core/rendertype_text",
-    "fragment": "minecraft:core/rendertype_text",
-    "samplers": [
-        { "name": "Sampler0" },
-        { "name": "Sampler2" }
-    ]
+    {
+      "name": "Sampler2"
+    }
+  ]
 }
 

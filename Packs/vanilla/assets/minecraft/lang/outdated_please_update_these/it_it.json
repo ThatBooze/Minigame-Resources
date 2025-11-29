@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "Client Options",
   "lem.battle.advancement.config.armorbar.desc": "Don't show armor you are wearing\n\n§6Can be toggled with /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Disable ArmorBar",

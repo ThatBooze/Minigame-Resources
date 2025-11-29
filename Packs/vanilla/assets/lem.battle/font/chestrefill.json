@@ -1,35 +1,35 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:chest/refill1.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "1"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:chest/refill2.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "2"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.battle:chest/refill3.png",
-            "ascent": -6360,
-            "height": 32,
-            "chars": [
-                "3"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:chest/refill1.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:chest/refill2.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.battle:chest/refill3.png",
+      "ascent": -6360,
+      "height": 32,
+      "chars": [
+        "3"
+      ]
+    }
+  ]
 }

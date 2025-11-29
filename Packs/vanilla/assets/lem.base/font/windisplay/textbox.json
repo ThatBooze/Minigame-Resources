@@ -1,251 +1,251 @@
 {
-    "providers": [
-        {
-            "type": "reference",
-            "id": "lem.base:negative_spaces"
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 4,
-            "chars": [
-                "\uF001"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 6,
-            "chars": [
-                "\uF002"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 8,
-            "chars": [
-                "\uF003"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 10,
-            "chars": [
-                "\uF004"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 12,
-            "chars": [
-                "\uF005"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 14,
-            "chars": [
-                "\uF006"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 16,
-            "chars": [
-                "\uF007"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 18,
-            "chars": [
-                "\uF008"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_left.png",
-            "ascent": -6410,
-            "height": 20,
-            "chars": [
-                "\uF009"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 4,
-            "chars": [
-                "\uF101"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 6,
-            "chars": [
-                "\uF102"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 8,
-            "chars": [
-                "\uF103"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 10,
-            "chars": [
-                "\uF104"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 12,
-            "chars": [
-                "\uF105"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 14,
-            "chars": [
-                "\uF106"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 16,
-            "chars": [
-                "\uF107"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 18,
-            "chars": [
-                "\uF108"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_center.png",
-            "ascent": -6410,
-            "height": 20,
-            "chars": [
-                "\uF109"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 4,
-            "chars": [
-                "\uF201"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 6,
-            "chars": [
-                "\uF202"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 8,
-            "chars": [
-                "\uF203"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 10,
-            "chars": [
-                "\uF204"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 12,
-            "chars": [
-                "\uF205"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 14,
-            "chars": [
-                "\uF206"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 16,
-            "chars": [
-                "\uF207"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 18,
-            "chars": [
-                "\uF208"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "lem.base:windisplay/text_right.png",
-            "ascent": -6410,
-            "height": 20,
-            "chars": [
-                "\uF209"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 4,
+      "chars": [
+        "\uF001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 6,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 8,
+      "chars": [
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 10,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 12,
+      "chars": [
+        "\uF005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 14,
+      "chars": [
+        "\uF006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 16,
+      "chars": [
+        "\uF007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 18,
+      "chars": [
+        "\uF008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_left.png",
+      "ascent": -6410,
+      "height": 20,
+      "chars": [
+        "\uF009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 4,
+      "chars": [
+        "\uF101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 6,
+      "chars": [
+        "\uF102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 8,
+      "chars": [
+        "\uF103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 10,
+      "chars": [
+        "\uF104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 12,
+      "chars": [
+        "\uF105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 14,
+      "chars": [
+        "\uF106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 16,
+      "chars": [
+        "\uF107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 18,
+      "chars": [
+        "\uF108"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_center.png",
+      "ascent": -6410,
+      "height": 20,
+      "chars": [
+        "\uF109"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 4,
+      "chars": [
+        "\uF201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 6,
+      "chars": [
+        "\uF202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 8,
+      "chars": [
+        "\uF203"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 10,
+      "chars": [
+        "\uF204"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 12,
+      "chars": [
+        "\uF205"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 14,
+      "chars": [
+        "\uF206"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 16,
+      "chars": [
+        "\uF207"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 18,
+      "chars": [
+        "\uF208"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:windisplay/text_right.png",
+      "ascent": -6410,
+      "height": 20,
+      "chars": [
+        "\uF209"
+      ]
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u8a2d\u5b9a",
   "lem.battle.advancement.config.armorbar.desc": "\u88c5\u5099\u4e2d\u306e\u9632\u5177\u3092\u8868\u793a\u3057\u307e\u305b\u3093\u3002\n\n§6\/trigger armorbar\u3067\u3053\u306e\u8a2d\u5b9a\u3092\u5909\u66f4\u3067\u304d\u307e\u3059\u3002",
   "lem.battle.advancement.config.armorbar.name": "\u9632\u5177\u30d0\u30fc\u3092\u7121\u52b9\u5316",

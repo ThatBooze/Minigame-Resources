@@ -1,4 +1,4 @@
-{	
+{
   "lem.advancement.config.root.name": "Opções do cliente",
   "lem.battle.advancement.config.armorbar.desc": "Não mostrar a armadura que você está utilizando\n\n§6Pode ser alternada com /trigger armorbar",
   "lem.battle.advancement.config.armorbar.name": "Desabilitar barra de armadura",
@@ -85,7 +85,7 @@
   "lem.config.clearsmall.enable": "Textura de inventário pequeno ativada!",
   "lem.battle.config.swapenchanted.disable": "§cTroca de armadura encantada desativada!",
   "lem.battle.config.swapenchanted.enable": "§aTroca de armadura encantada ativada!",
-  "lem.config.safemusic.disable": "Musica segura para YouTube/Streaming desativada!", 
+  "lem.config.safemusic.disable": "Musica segura para YouTube/Streaming desativada!",
   "lem.config.safemusic.enable": "Musica segura para YouTube/Streaming ativada!",
   "lem.hints.reloadresources.text": "§6Entre novamente ou digite %s§6 para aplicar as mudanças.",
   "lem.hints.reloadresources.hover": "§e§oClique para recarregar os recursos",
