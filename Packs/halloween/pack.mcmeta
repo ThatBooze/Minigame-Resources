@@ -1,7 +1,6 @@
 {
   "pack": {
-    "min_format": 75,
-    "max_format": 75,
+  "pack_format": 75,
     "description": "Legacy Edition Minigames (Halloween\/2.0 Beta)"
   }
 }
