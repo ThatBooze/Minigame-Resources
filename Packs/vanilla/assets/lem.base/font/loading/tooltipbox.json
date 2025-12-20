@@ -24,15 +24,6 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/tooltip/3.png",
-      "ascent": -6295,
-      "height": 55,
-      "chars": [
-        "3"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "lem.base:loading/tooltip/4.png",
       "ascent": -6295,
       "height": 55,

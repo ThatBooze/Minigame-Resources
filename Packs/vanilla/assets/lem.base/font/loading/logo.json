@@ -42,27 +42,27 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/logo/battle.png",
-      "ascent": 18,
-      "height": 33,
+      "file": "lem.battle:loading/logo/battle.png",
+      "ascent": 12,
+      "height": 16,
       "chars": [
         "5"
       ]
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/logo/battle.png",
-      "ascent": 18,
-      "height": 33,
+      "file": "lem.battle:loading/logo/battle.png",
+      "ascent": 12,
+      "height": 16,
       "chars": [
         "6"
       ]
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/logo/battle.png",
-      "ascent": 18,
-      "height": 33,
+      "file": "lem.battle:loading/logo/battle.png",
+      "ascent": 12,
+      "height": 16,
       "chars": [
         "7"
       ]
