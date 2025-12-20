@@ -1,4 +1,8 @@
 {
+  "text.tt.pre": "\uF806\uF808\uF809\uF80A",
+  "text.tt.t1": "\uF804\uF808\uF809\uF80A\uF80B\uF80B\uF80B\uF80B\uF80BThere is now a damage indicator on your crosshair. It will help you to",
+  "text.tt.t2": "\uF808\uF809\uF80A\uF80B\uF80B\uF80B\uF80Bdetermine the direction of your attacker.",
+  "text.tt.download": "Downloading terrain",
   "heirloom.cosmetics.heart.pack.minecraft.heart": "Minecraft",
   "heirloom.cosmetics.heart.pack.minecraft.block": "Blocks",
   "heirloom.cosmetics.heart.pack.minecraft.item": "Items",

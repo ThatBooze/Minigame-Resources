@@ -1,0 +1,71 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/part1.png",
+      "ascent": 10,
+      "height": 55,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/part2.png",
+      "ascent": 10,
+      "height": 55,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/part3.png",
+      "ascent": 10,
+      "height": 55,
+      "chars": [
+        "3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/part4.png",
+      "ascent": 10,
+      "height": 55,
+      "chars": [
+        "4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/battle.png",
+      "ascent": 18,
+      "height": 33,
+      "chars": [
+        "5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/battle.png",
+      "ascent": 18,
+      "height": 33,
+      "chars": [
+        "6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/battle.png",
+      "ascent": 18,
+      "height": 33,
+      "chars": [
+        "7"
+      ]
+    }
+  ]
+}

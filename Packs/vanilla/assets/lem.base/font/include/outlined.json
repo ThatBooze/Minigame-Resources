@@ -1,0 +1,14 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "lem.base:font/outlined.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+        "1234567890.(/)\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    }
+  ]
+}

@@ -42,7 +42,7 @@ void main() {
         else if (control == ivec3(0, 0, 1)) gl_Position.xy += vec2(-1.0, -2.0);// #000001 BOTTOM LEFT
         else if (control == ivec3(0, 0, 2)) gl_Position.xy += vec2(0.0, -2.0);// #000002 BOTTOM CENTER
         else if (control == ivec3(0, 0, 3)) gl_Position.xy += vec2(1.0, -2.0);// #000003 BOTTOM RIGHT
-        else if (control == ivec3(0, 4, 0)) gl_Position.xy = vec2(1.0, 1.0);// #000200 CENTER CENTER FIXED
+        else if (control == ivec3(0, 4, 0)) gl_Position.xy = vec2(1.0, 1.0);// #000400 CENTER CENTER FIXED
         else if (control == ivec3(2, 1, 0)) { // #020100 FILL SCREEN
             gl_Position = vec4(corners[gl_VertexID % 4], 0.0, 1.0);
         }

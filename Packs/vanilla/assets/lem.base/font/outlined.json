@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "reference",
+      "id": "lem.base:include/outlined"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/logo/part1.png",
+      "ascent": 10,
+      "height": 55,
+      "chars": [
+        "\uE782"
+      ]
+    }
+  ]
+}

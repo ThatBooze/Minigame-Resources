@@ -1,0 +1,44 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "lem.base:negative_spaces"
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/tooltip/1.png",
+      "ascent": -6295,
+      "height": 55,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/tooltip/2.png",
+      "ascent": -6295,
+      "height": 55,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/tooltip/3.png",
+      "ascent": -6295,
+      "height": 55,
+      "chars": [
+        "3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/tooltip/4.png",
+      "ascent": -6295,
+      "height": 55,
+      "chars": [
+        "4"
+      ]
+    }
+  ]
+}
