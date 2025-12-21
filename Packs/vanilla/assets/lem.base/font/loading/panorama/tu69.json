@@ -10,7 +10,7 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/panorama/tu69/1.png",
+      "file": "lem.base:loading/panorama/69/day/1.png",
       "height": 144,
       "ascent": -6390,
       "chars": [
@@ -19,7 +19,7 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/panorama/tu69/2.png",
+      "file": "lem.base:loading/panorama/69/day/2.png",
       "height": 144,
       "ascent": -6390,
       "chars": [
@@ -28,7 +28,7 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/panorama/tu69/3.png",
+      "file": "lem.base:loading/panorama/69/day/3.png",
       "height": 144,
       "ascent": -6390,
       "chars": [
@@ -37,7 +37,7 @@
     },
     {
       "type": "bitmap",
-      "file": "lem.base:loading/panorama/tu69/4.png",
+      "file": "lem.base:loading/panorama/69/day/4.png",
       "height": 144,
       "ascent": -6390,
       "chars": [
