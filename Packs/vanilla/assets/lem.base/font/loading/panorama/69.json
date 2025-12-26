@@ -43,6 +43,42 @@
       "chars": [
         "4"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/panorama/69/night/1.png",
+      "height": 144,
+      "ascent": -6390,
+      "chars": [
+        "5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/panorama/69/night/2.png",
+      "height": 144,
+      "ascent": -6390,
+      "chars": [
+        "6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/panorama/69/night/3.png",
+      "height": 144,
+      "ascent": -6390,
+      "chars": [
+        "7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "lem.base:loading/panorama/69/night/4.png",
+      "height": 144,
+      "ascent": -6390,
+      "chars": [
+        "8"
+      ]
     }
   ]
 }
