@@ -1,0 +1,3 @@
+files:
+  - source: /Packs/vanilla/assets/**/lang/en_us.json
+    translation: /Packs/vanilla/assets/**/lang/%locale%.json
