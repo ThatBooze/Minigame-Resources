@@ -11,7 +11,7 @@ jobs:
         pack: [vanilla, cartoon, chinese-mythology, city, fallout, fantasy, festive, greek-mythology, halloween, natural, plastic, steampunk]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Extract
         working-directory: ./Packs
@@ -26,7 +26,7 @@ jobs:
         run: |
           chmod +x packsquash
           mkdir out
-          printf "allow_mods = ['OptiFine']\nzip_spec_conformance_level = 'disregard'\nnever_store_squash_times = true\npack_directory = \"%s\"\noutput_file_path = \"out/%s.zip\"" "${{ matrix.pack }}" "${{ matrix.pack }}"> packsquash-options.toml
+          printf "allow_mods = ['OptiFine']\nzip_spec_conformance_level = 'high'\nnever_store_squash_times = true\npack_directory = \"%s\"\noutput_file_path = \"out/%s.zip\"" "${{ matrix.pack }}" "${{ matrix.pack }}"> packsquash-options.toml
           ./packsquash packsquash-options.toml
 
       - name: Release Packs
