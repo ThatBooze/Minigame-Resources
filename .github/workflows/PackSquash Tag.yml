@@ -35,6 +35,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
+          upload_artifact: false
           packsquash_version: v0.4.1
           options: |
             pack_directory = 'Packs/${{ matrix.pack }}'
@@ -46,5 +47,5 @@ jobs:
       - name: Release Packs
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "/tmp/${{ matrix.pack }}.zip"
           allowUpdates: true
+          artifacts: "/tmp/${{ matrix.pack }}.zip"
