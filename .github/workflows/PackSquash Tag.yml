@@ -38,7 +38,7 @@ jobs:
           packsquash_version: v0.4.1
           options: |
             pack_directory = 'Packs/${{ matrix.pack }}'
-            output_file_path = 'Packs/out/${{ matrix.pack }}.zip'
+            output_file_path = '/tmp/${{ matrix.pack }}.zip'
             allow_mods = ['OptiFine']
             zip_spec_conformance_level = 'high'
             never_store_squash_times = true
@@ -46,5 +46,5 @@ jobs:
       - name: Release Packs
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "Packs/out/${{ matrix.pack }}.zip"
+          artifacts: "/tmp/${{ matrix.pack }}.zip"
           allowUpdates: true
