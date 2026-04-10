@@ -35,7 +35,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          upload_artifact: false
+          artifact_name: packsquash-${{ matrix.pack }}
           packsquash_version: v0.4.1
           options: |
             pack_directory = 'Packs/${{ matrix.pack }}'
