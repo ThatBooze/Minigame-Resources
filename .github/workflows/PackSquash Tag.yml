@@ -35,7 +35,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          packsquash_version: 0.4.1
+          packsquash_version: v0.4.1
           options: |
             pack_directory = 'Packs/${{ matrix.pack }}'
             output_file_path = 'Packs/out/${{ matrix.pack }}.zip'
